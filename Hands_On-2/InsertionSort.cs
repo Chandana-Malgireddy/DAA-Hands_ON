@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -10,6 +11,7 @@ namespace Hands_On_2
     {
         public InsertionSort(int[] arr1)
         {
+            
             int n=arr1.Length;
             int key,j;
             for (int i = 0; i <n ; i++)
@@ -23,10 +25,12 @@ namespace Hands_On_2
                 }
                 arr1[j + 1] = key;
             }
-            for (int i = 0; i < n; i++)
-            {
-                Console.WriteLine(arr1[i]);
-            }
+            
+            //Console.WriteLine("After Swapping:");
+            //for (int i = 0; i < n; i++)
+            //{
+            //    Console.WriteLine(arr1[i]);
+            //}            
         }
     }
 }

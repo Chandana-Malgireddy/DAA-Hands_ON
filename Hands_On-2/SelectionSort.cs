@@ -26,7 +26,11 @@ namespace Hands_On_2
                 arr1[minIndex] = arr1[i];
                 arr1[i] = temp;
             }
-
+            //Console.WriteLine("After Swapping:");
+            //for (int i = 0; i < n; i++)
+            //{
+            //    Console.WriteLine(arr1[i]);
+            //}
         }
     }
 }
