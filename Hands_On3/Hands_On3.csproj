@@ -11,4 +11,8 @@
     <PackageReference Include="ScottPlot" Version="4.1.73" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="1,3,4,5\" />
+  </ItemGroup>
+
 </Project>
