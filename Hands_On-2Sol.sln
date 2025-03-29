@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hands_ON8", "Hands_ON8\Hand
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hands_ON10", "Hands_ON10\Hands_ON10.csproj", "{070362C7-2F39-4563-9FEB-9BC2EB48D3A5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hands_ON11", "Hands_ON11\Hands_ON11.csproj", "{21BECBB2-214A-4729-BE07-DF08D43599D2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{070362C7-2F39-4563-9FEB-9BC2EB48D3A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{070362C7-2F39-4563-9FEB-9BC2EB48D3A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{070362C7-2F39-4563-9FEB-9BC2EB48D3A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21BECBB2-214A-4729-BE07-DF08D43599D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21BECBB2-214A-4729-BE07-DF08D43599D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21BECBB2-214A-4729-BE07-DF08D43599D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21BECBB2-214A-4729-BE07-DF08D43599D2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
