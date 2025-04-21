@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hands_ON11", "Hands_ON11\Ha
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hands_ON12", "Hands_ON12\Hands_ON12.csproj", "{486365D0-C9F2-428C-AEA2-9D4888A2D428}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandsON14", "HandsON14\HandsON14.csproj", "{205904C2-48BB-4ED7-83FA-273F9DF5A794}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{486365D0-C9F2-428C-AEA2-9D4888A2D428}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{486365D0-C9F2-428C-AEA2-9D4888A2D428}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{486365D0-C9F2-428C-AEA2-9D4888A2D428}.Release|Any CPU.Build.0 = Release|Any CPU
+		{205904C2-48BB-4ED7-83FA-273F9DF5A794}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{205904C2-48BB-4ED7-83FA-273F9DF5A794}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{205904C2-48BB-4ED7-83FA-273F9DF5A794}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{205904C2-48BB-4ED7-83FA-273F9DF5A794}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
